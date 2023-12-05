@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${/home/crio-user/workspace/pronoysunny-47-ME_API_TESTING_PROJECT/app/src/test/java/qtriptest/APITests/testCase_API_01.java}"
+        }
+    ]
+}
